@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tran Le Hoang lam</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Trong Ninh</h1>
 <h3 align="center">A Software Developer</h3>
 
 - 🔭 I’m currently learning in UIT - Vietnam National University University of Information Technology Ho Chi Minh, Viet Nam
