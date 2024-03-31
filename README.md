@@ -1,10 +1,10 @@
-## Hey <img src="https://raw.githubusercontent.com/Ninhnon/Ninhnon/wave.gif" width="30">, I'm Ninh Nguyen!
+## Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Ninh Nguyen!
 
 I am a software engineer and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱 or ML Engineer 🤖) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 [![Linkedin Badge](https://img.shields.io/badge/-ninhnguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ninhnguyentrong/)](https://www.linkedin.com/in/ninhnguyentrong/) [![Facebook Badge](https://img.shields.io/badge/-ninh96592-darkred?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nguyen.ninh.96592)](https://www.facebook.com/nguyen.ninh.96592) [![Gmail Badge](https://img.shields.io/badge/-nguyentrongninh24072003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyentrongninh24072003@gmail.com)](mailto:nguyentrongninh24072003@gmail.com) <br/> <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Ninhnon/Ninhnon/code.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="360px"/>
 
 ### 🧐 More About Me:
 
