@@ -10,6 +10,7 @@ I am a software engineer and easily adapt to different hats (Full Stack Web Deve
 
 - 🔭 &nbsp; I’m currently learning on **UIT** Vietnam National <br> University University of Information Technology <br> Ho Chi Minh, Viet Nam
 
+- 📊 &nbsp; View my portfolio [ninhnon.id.vn](hhttps://ninhnon.id.vn/)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Ninhnon?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I'm happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ninhnguyentrong/)
